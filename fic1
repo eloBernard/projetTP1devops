@@ -1,2 +1,6 @@
 hello git
+<<<<<<< HEAD
 change file version2
+=======
+change this file
+>>>>>>> f4a3a9a01e11a737e220c8851bbc4755a6afcab6
